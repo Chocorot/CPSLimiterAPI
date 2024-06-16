@@ -1,0 +1,8 @@
+name: CPSLimiterAPI
+main: net.chocorot.cps.Main
+version: 1.0.0
+author: Chocorot
+commands:
+  settings:
+    description: For setting.
+    permission: op
